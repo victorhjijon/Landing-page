@@ -1,5 +1,6 @@
 # Landing Page Project
 
+
 ## Project Description
 
 The **Landing Page Project** demonstrates the dynamic manipulation of the DOM to create an interactive and user-friendly multi-section landing page. The navigation menu is built dynamically based on the content present in the page, and key features like smooth scrolling and active section highlighting are implemented to enhance the user experience. This project also incorporates responsive design principles, ensuring usability across different devices and browsers.
@@ -29,20 +30,25 @@ The **Landing Page Project** demonstrates the dynamic manipulation of the DOM to
 
 ---
 
-## Project Structure
+## Project File Structure
+```
 
-project-folder/ │ ├── css/ │ └── styles.css # Contains all the CSS for the project. │ ├── js/ │ └── app.js # Main JavaScript file containing DOM manipulation logic. │ ├── index.html # The main HTML structure for the project. │ └── README.md # Project documentation (this file).
+│ ├── css/ 
+│ └── styles.css # Contains all the CSS for the project. 
+│ ├── js/ 
+│ └── app.js # Main JavaScript file containing DOM manipulation logic. 
+│ ├── index.html # The main HTML structure for the project. 
+│ └── README.md # Project documentation (this file).
 
-yaml
-Copy code
-
+```
 ---
 
 ## How to Use
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/landing-page-project.git
+   git clone https://github.com/victorhjijon/landing-page.git
+
 Open the Project:
 
 Open the index.html file in your preferred web browser.
@@ -72,6 +78,8 @@ Google Chrome
 Mozilla Firefox
 Microsoft Edge
 Safari
-Author
-Victor's Landing Page Project - Created as part of an interactive DOM manipulation assignment.
 
+
+# Author 
+- Udacity provided the original starter code
+- @victorhjijon adjusted the project starter code for submission
